@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @martinkenie
-- 👀 I’m interested in Artificial Intelligence and machine learning
-- 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me kendalltyler143@icloud.com
+-Ready to Collaborate on ML and Deep Learning projects 
 
 <!---
 martinkenie/martinkenie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
